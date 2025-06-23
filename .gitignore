@@ -1,0 +1,16 @@
+# Ignore environment config file (contains sensitive info)
+.env
+
+# Ignore PHPMailer cache/logs if any
+phpmailer/examples/
+phpmailer/test/
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor config
+.vscode/
+.idea/
+*.log
+*.bak
